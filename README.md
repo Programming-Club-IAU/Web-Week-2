@@ -1,12 +1,26 @@
+
 ## Web Track Week-2 Task ⚒️
 
-### In this week you will learn: 🏫
+### HTML Basics:
 
-- Basics of HTML (HyperText Markup Language) **Note (Not a programming language)**
-   - [ ] tags
-   - [ ] text formatting
-   - [ ] tags that import images and audio and videos
-   - [ ] also, to put links and pages in your page
+- Introduction to HTML (HyperText Markup Language)
+- Understanding the structure of an HTML document (DOCTYPE declaration, <html>, <head>, <title>, <body>)
+- HTML Elements:
+   - Heading elements (<h1>, <h2>, ..., <h6>)
+   - Paragraph element (<p>)
+   - List elements (<ul>, <ol>, <li>)
+   - Anchor element (<a>) for links
+   - Container elements (<div> , <span>)
+- Text Formatting:
+   - Bold (<b>) and Italic (<i>) elements
+   - Line breaks (<br>)
+   - Horizontal rule (<hr>)
+- Images:
+   - Adding images with the <img> element
+- Links:
+   - Creating hyperlinks using the <a> element
+- Attributes:
+   - Understanding attributes and how they modify element behavior (e.g., src and alt in <img>, href in <a>)
 
 ### Resources🔗
 
