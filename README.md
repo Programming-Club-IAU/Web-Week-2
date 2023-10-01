@@ -28,4 +28,16 @@
 
 ## **Your task is** 📝
 
-- Make a page that ..... .
+### Create a Simple Personal Portfolio using HTML
+
+
+1. Add a title to the main page. 📄
+2. Add a favicon. 🌟
+3. Use at least 10 HTML tags other than `<head>`, `<body>`, and `<html>.` 🏷️
+4. Try to use semantic HTML elements. 🧩
+5. Create at least two additional HTML pages (e.g., `about.html` and `portfolio.html`).
+6. Add navigation links between the pages using `<a>` tags.
+7. Include images on one of the pages (e.g., your portfolio page).
+
+**Deadline:** Saturday, October 7, 2023 📅
+
