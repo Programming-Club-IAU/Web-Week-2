@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Website</title>
+    </head>
+
+    <body style="background-color: blanchedalmond;">
+
+        <h1 style = "text-align: center;">This Is My First Website</h1>
+        <hr>
+
+        <form>
+
+            <div style = "text-align: center;">
+                <label for="name">Enter your name to get a warm welcome:</label>
+                <br>
+                <br>
+                <input type="text" id="name">
+            </div>
+
+        </form>
+        <br>
+
+        <div style="text-align: center;">
+        <button onclick="welcome()" style="background-color: aliceblue; align-self: center;">Click here</button>
+        <h2 id="welcoming">Who are you?</h2>
+        </div>
+
+        <div style="text-align: center;">
+            <h2>Now I will Talk About Myself</h2>
+            <p>My name is Faris Alshumrani Computer Science student at IAU. <br>I am ambitious and seek to learn more about the woeld of AI and
+                <br>Web-Devlopment so I can provide soulutions that will faciltate people`s live.
+            </p>
+
+            <h3>My Hobbies:</h3>
+
+            <ul>
+                <li>Prgoramming 👨‍💻</li>
+                <li>Gym 🤸‍♂️</li>
+                <li>Araibic Calligraphy 🖋️
+                    <ul>
+                        <li>Nasikh</li>
+                        <li>Kofi</li>
+                    </ul>
+                </li>
+                <li>Reading 📚</li>
+                <li>making coffee Of course ☕</li>
+                <li>Procrastnating 😔</li>
+            </ul>
+
+            <h3>My social media accounts:</h3>
+
+            <a href="https://instagram.com/faris_komo?igshid=OGQ5ZDc2ODk2ZA==">Instagram</a>
+            <br>
+            <a href="https://x.com/faris_komo?t=9JwlwQpspVxsB3kYsOaR-A&s=09">Twitter(I won`t call it X)</a>
+
+        </div>
+
+        <script>
+            function welcome(){
+                var text = document.getElementById("name").value;
+                document.getElementById("welcoming").innerHTML = "Welcome " + text + " To my website I hope you will like it :)";
+            }
+        </script>
+
+    <br>
+    <br>
+
+    <div style="text-align: center;">
+        <a href="index.html">Home</a>
+        <a href="anime.html">Anime</a>
+        <a href="#somthing.html">Somthing</a>
+    </div>
+
+
+        
+
+    </body>
+</html>
