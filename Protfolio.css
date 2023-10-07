@@ -1,0 +1,63 @@
+body{
+    background-color: rgba(0, 0, 0, 0.758);
+    color: white;
+    margin: 10px;
+   margin-left: 20px;
+   margin-right:20px ;
+    margin-bottom: 0;
+}
+.logo{
+width: 60px;
+height: 60px; 
+margin-right: 4px;
+}
+.mediaLink{
+    font-size: 25px;
+    margin-right: 15px;
+    color: black;
+}
+.headerText{
+    margin-top: 5px;
+    font-size: 30px;
+
+}
+.MainPage{
+ text-align: center;
+
+}
+.AboutMe{
+    color: black;
+    font-weight: bold;
+   font-size:25px;
+}
+.NavigateBar{
+    background-color:rgb(168, 1, 1);
+    text-align: right;
+    padding-bottom:10px ;
+    padding-right:5px ;
+    border:4px ;   
+    border-top:0 ;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+}
+.MyProjects{
+ display: inline-block;
+ width: 1500px;
+    height: 356px;
+}
+.MySkills{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;   
+    background-color: rgb(168, 1, 1);
+    padding:15px ;
+    border:4px ;   
+    border-top:0 ;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+margin: 0;
+}
+.languageLogo{
+    height: 100px;
+}
