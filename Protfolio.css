@@ -31,7 +31,7 @@ margin-right: 4px;
    font-size:25px;
 }
 .NavigateBar{
-    background-color:blue;
+    background-color:rgb(168, 1, 1);
     text-align: right;
     padding-bottom:10px ;
     padding-right:5px ;
@@ -50,7 +50,7 @@ margin-right: 4px;
     justify-content: space-between;
     align-items: center;
     font-size: 30px;   
-    background-color: blue;
+    background-color: rgb(168, 1, 1);
     padding:15px ;
     border:4px ;   
     border-top:0 ;
